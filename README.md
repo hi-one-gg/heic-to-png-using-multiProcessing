@@ -1,15 +1,14 @@
 # Install
-
-```
-1. git clone https://github.com/hi-one-gg/heic-to-png-using-multiProcessing.git
-2. pip install pillow, pillow_heif, functools
-```
+1. ```git clone https://github.com/hi-one-gg/heic-to-png-using-multiProcessing.git```
+2. ```pip install pillow, pillow_heif, functools```
 </br>
 
 # Usage
 ```
 python heic_to_png_parallel.py {heic directory} {num_cpu_core}
 ```
+- Original HEIC images are not deleted.
+- If you do not specify **{num_cpu_core}**, the maximum number of CPU cores will be used automatically.
 </br>
 
 # Screenshot
