@@ -1,7 +1,7 @@
 # Install
 
 ```
-1. git clone
+1. git clone https://github.com/hi-one-gg/heic-to-png-using-multiProcessing.git
 2. pip install pillow, pillow_heif, functools
 ```
 </br>
