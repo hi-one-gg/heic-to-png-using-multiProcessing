@@ -8,7 +8,8 @@
 python heic_to_png_parallel.py {heic directory} {num_cpu_core}
 ```
 - Original HEIC images are not deleted.
-- If you do not specify **{num_cpu_core}**, the maximum number of CPU cores will be used automatically.
+- If you do not specify ```{num_cpu_core}```, the maximum number of CPU cores will be used automatically.</br>
+Never mind, just use it.
 </br>
 
 # Screenshot
